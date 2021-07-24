@@ -33,7 +33,7 @@ O curso aborda os seguintes temas:
 
 **Contato:**
 
-- LinkedIn: https://linkedin.com/leonardo-leit%C3%A3o-8a5813186/
+- LinkedIn: https://www.linkedin.com/in/leonardo-leit%C3%A3o-8a5813186/
 - Facebook: https://www.facebook.com/leonardo.leitao.35
 - Twitter: https://twitter.com/leonardomleitao
 
