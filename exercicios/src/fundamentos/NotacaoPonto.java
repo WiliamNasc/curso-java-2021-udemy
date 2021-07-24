@@ -27,11 +27,8 @@ public class NotacaoPonto {
 		String x = "WIL".toLowerCase();
 		System.out.println(x);
 
-		String y = "Bom dia X"
-				.replace("X", "gui")
-				.toUpperCase()
-				.concat(" !!!");
-		
+		String y = "Bom dia X".replace("X", "gui").toUpperCase().concat(" !!!");
+
 		System.out.println(y);
 	}
 }
